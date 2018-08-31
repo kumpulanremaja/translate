@@ -4,4 +4,4 @@ google translate with python
 require module <br>
 * requests
 * BeautifulSoup <br>
-![Alt Text](https://raw.githubusercontent.com/Hendriyawan/master/Screenshot_20180831-200444_1.jpg)
+<img src="https://raw.githubusercontent.com/Hendriyawan/master/Screenshot_20180831-200444_1.jpg" width="250">
