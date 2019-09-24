@@ -488,14 +488,16 @@ target_language = [
 ]
 def banner():
 	print """
-	\x1b[1;34mG \x1b[1;31mO \x1b[1;33mO \x1b[1;34mG \x1b[1;32mL \x1b[1;31mE\x1b[0m TRANSLATE Bye Kumpulan Remaja
+	\x1b[1;34mG \x1b[1;31mO \x1b[1;33mO \x1b[1;34mG \x1b[1;32mL \x1b[1;31mE\x1b[0m TRANSLATE Bye KumpulanRemaja.com
 	"""
 def help():
-	print '\x1b[1;31m[!]\x1b[0m Usage : python2 gtranslate.py [SL-TL] "text to translate!"'
-	print '    Example : gtranslate.py US-ID "nice to meet you"\n'
+	print '\x1b[1;31m[!]\x1b[0m Usage : python2 trans.py [SL-TL] "text to translate!"'
+	print '    Contoh Penggunaan  : trans.py US-ID "nice to meet you"\n'
 	print 'Source : Kumpulanremaja.com'
 	print 'Github : kumpulanremaja'
-	
+	print 'facebook : fb.me/4kumpulanremaja'
+	print 'Twitter : twitter.com/4kumpulanremaja'
+	print 'Instagram : instagram.com/4kumpulanremaja'
 	
 class GoogleTranslate:
 	def __init__(self):
