@@ -1,10 +1,3 @@
-#! /bin/env python2
-# 30.08.2018 by GDEV (Hendriyawan)
-# thanks AndroSec1337 (matt)
-# @github.com/Hendriyawan
-import requests, sys
-from bs4 import BeautifulSoup
-
 #source language
 source_language = [
     "US",
